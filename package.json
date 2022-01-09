@@ -1,0 +1,14 @@
+{
+  "name": "email-dev-example-simple",
+  "version": "1.0.0",
+  "description": "A simple example setup for developing dynamic emails using MJML",
+  "scripts": {
+    "generate": "node generate.js"
+  },
+  "author": "Luke Rawlings",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars": "^4.7.7",
+    "mjml": "^4.10.2"
+  }
+}
